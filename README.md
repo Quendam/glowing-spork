@@ -8,6 +8,10 @@ This is app created originally for course FullStack open 2019
 
 Needs node / npm
 
+# Install packages 
+
+npm install
+
 # Running json server backend
 
 npm run server
